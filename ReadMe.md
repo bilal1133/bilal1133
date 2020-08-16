@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Bilal Mehmood - aka Billy 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/bilal1133)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/bilal_mehm00d/)
+[bilal113(https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/bilal1133)
+[![Instagram Profile](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/bilal_mehm00d/)
 
 ## I'm a Muslim, Pakistani, Student, Developer, Networking Admin, and Gamer!
 
