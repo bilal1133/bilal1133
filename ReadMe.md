@@ -1,15 +1,16 @@
+<!-- @format -->
 
 ### Hi there, I'm Bilal Mehmood - aka Billy 👋
 
-[bilal113(https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/bilal1133)
-[![Instagram Profile](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/bilal_mehm00d/)
+[bilal113](https://github.com/bilal1133)
+[![Instagram Profile]](https://www.instagram.com/bilal_mehm00d/)
 
 ## I'm a Muslim, Pakistani, Student, Developer, Networking Admin, and Gamer!
 
 - 🎓 About to complete my Graduation from COMSATS Lahore In BCS.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other coding geeks to create fun app.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Improve my Web Developer Skills.
 - ⚡ Fun fact: I like to watch memes and to play badminton🏸.
 
 ### Spotify Playing 🎧
