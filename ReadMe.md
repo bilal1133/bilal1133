@@ -1,5 +1,6 @@
 <!-- @format -->
 
+
 ### Hi there, I'm Bilal Mehmood - aka Billy 👋
 
 [bilal113](https://github.com/bilal1133)
@@ -12,6 +13,14 @@
 - 👯 I’m looking to collaborate with other coding geeks to create fun app.
 - 🥅 2020 Goals: Improve my Web Developer Skills.
 - ⚡ Fun fact: I like to watch memes and to play badminton🏸.
+
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+<img align="left" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bilal1133&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal1133&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 ### Spotify Playing 🎧
 
