@@ -6,7 +6,7 @@
 [bilal113](https://github.com/bilal1133)
 [![Instagram Profile]](https://www.instagram.com/bilal_mehm00d/)
 
-## I'm a Muslim, Pakistani, Student, Developer, Networking Admin, and Gamer!
+
 
 - 🎓 About to complete my Graduation from COMSATS Lahore In BCS.
 - 🌱 I’m currently learning everything 🤣
